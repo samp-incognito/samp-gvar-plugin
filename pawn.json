@@ -1,0 +1,23 @@
+{
+    "user": "samp-incognito",
+    "repo": "samp-gvar-plugin",
+    "resources": [
+        {
+            "name": "^samp-gvar-plugin-(.+).zip$",
+            "platform": "linux",
+            "archive": true,
+            "includes": ["pawno/include"],
+            "plugins": ["plugins/gvar.so"]
+        },
+        {
+            "name": "^samp-gvar-plugin-(.+).zip$",
+            "platform": "windows",
+            "archive": true,
+            "includes": ["pawno/include"],
+            "plugins": ["plugins/gvar.dll"]
+        }
+    ],
+    "runtime": {
+        "plugins": ["samp-incognito/samp-gvar-plugin"]
+    }
+}

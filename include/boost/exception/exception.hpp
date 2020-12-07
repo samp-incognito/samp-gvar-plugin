@@ -148,7 +148,7 @@ boost
     class shared_ptr;
 
     namespace
-    exception_detail
+    exception_detail 
         {
         class error_info_base;
         struct type_info_;

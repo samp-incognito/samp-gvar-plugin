@@ -16,7 +16,7 @@ Open the solution file (gvar.sln) in Microsoft Visual Studio 2010 or higher. Bui
 Compilation (Linux)
 -------------------
 
-Install the GNU Compiler Collection and GNU Make. Type "make" in the top directory to compile the source code.
+Install the GNU Compiler Collection and CMake. Type "make" in the top directory to compile the source code.
 
 
 Download

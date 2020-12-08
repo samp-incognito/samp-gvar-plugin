@@ -11,7 +11,7 @@ This plugin is an extension to the per-player variable (PVar) system introduced 
 Compilation (Windows)
 ---------------------
 
-Open the solution file (gvar.sln) in Microsoft Visual Studio 2010 or higher. Build the project.
+Open the solution file (gvar.sln) in Microsoft Visual Studio. Build the project.
 
 Compilation (Linux)
 -------------------
